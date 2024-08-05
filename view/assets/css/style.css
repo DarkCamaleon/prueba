@@ -1,0 +1,50 @@
+.bg-unap-blue{
+    background-color:#0069B1 !important;
+}
+
+.bg-unap-green{
+    background-color:#009CA6 !important;
+}
+
+.bg-unap-dark{
+    background-color:#44546A !important;
+}
+
+.color-unap-blue{
+    color:#0069B1 !important;
+}
+
+.color-unap-green{
+    color:#009CA6 !important;
+}
+
+.color-unap-dark{
+    color:#44546A !important;
+}
+body{
+    padding-left: 250px;
+}
+#offcanvasScrolling {
+    width: 250px; /* Ancho personalizado */
+    transform: none;
+    visibility: visible;
+}
+
+.bg-mi-color {
+    background-color: #313a46;
+}
+.btn-offcanvas {
+    background-color: #313a46; /* Color del offcanvas */
+    border-color: #313a46; /* Color del borde */
+    color: #8391a2; /* Color del texto */
+  }
+  
+  .btn-offcanvas:hover {
+    background-color: #009CA6; /* Color del hover */
+    border-color: #2f3642; /* Color del borde en hover */
+    color: #ffffff; /* Color del texto en hover */
+  }
+  
+  .btn-offcanvas:focus {
+    box-shadow: 0 0 0 0.2rem rgba(49, 58, 70, 0.5); /* Sombra en focus */
+  }
